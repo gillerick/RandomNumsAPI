@@ -1,7 +1,7 @@
 
 # Random Numbers API
 
-This is a sample GO API that generates a random number every time a user sends a GET request
+This is a simple GO API that generates a random number every time a user sends a GET request
 | Language | Platform | Author |
 | -------- | --------|--------|
 | Go Lang |  Azure Web App|Gill Erick |
