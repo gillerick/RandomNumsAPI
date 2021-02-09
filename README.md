@@ -16,7 +16,7 @@ Please follow this link to get started with the setup [Go Lang Setup](https://go
 - #### Clone this repository  
 
 ```bash
-    $ git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
+    $ git clone https://github.com/gillerick/GoUsersAPI.git
 ```
 
 ## Deploying on Azure
