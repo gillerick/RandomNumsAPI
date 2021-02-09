@@ -1,7 +1,7 @@
 
-# Sample Go web application
+# Random Numbers API
 
-This is a sample GO Lang web application built on [visual studio code](https://code.visualstudio.com/).
+This is a sample GO API that generates a random number every time a user sends a GET request
 | Language | Platform | Author |
 | -------- | --------|--------|
 | Go Lang |  Azure Web App|Gill Erick |
@@ -16,7 +16,7 @@ Please follow this link to get started with the setup [Go Lang Setup](https://go
 - #### Clone this repository  
 
 ```bash
-    $ git clone https://github.com/gillerick/GoUsersAPI.git
+    $ git clone https://github.com/gillerick/RandomNumsAPI.git
 ```
 
 ## Deploying on Azure
