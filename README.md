@@ -4,7 +4,7 @@
 This is a sample GO Lang web application built on [visual studio code](https://code.visualstudio.com/).
 | Language | Platform | Author |
 | -------- | --------|--------|
-| Go Lang |  Azure Web App| |
+| Go Lang |  Azure Web App|Gill Erick |
 
 
 ## Installation
